@@ -50,4 +50,26 @@ Even in static wireframes, showing how users interact with elements is crucial. 
 
 ---
 
-Each of these elements contributes to the **user experience (UX)** by ensuring that the product is intuitive, navigable, and aligned with user goals before the final design and development stages.
+# Types of Wireframes
+
+Wireframes are generally categorized by fidelity, which indicates the level of detail and realism.
+
+## Low-Fidelity Wireframes
+- **Description:** Simple, rough sketches that represent layout, content placement, and basic navigation without detailed visuals.  
+- **Characteristics:** Black-and-white or grayscale, minimal detail, focus on structure and flow rather than style.  
+- **Use case:** Early stages of design to brainstorm ideas, explore different layouts, and gather feedback quickly.  
+- **Example:** Paper sketches or basic digital blocks showing a homepage layout without colors or images.
+
+## High-Fidelity Wireframes
+- **Description:** Detailed wireframes that closely resemble the final product in terms of spacing, proportions, and interactions.  
+- **Characteristics:** Include real content, typography, detailed layout, interactive elements, and annotations for behavior.  
+- **Use case:** Later stages of design to test usability, refine user flows, and communicate specific design requirements to developers.  
+- **Example:** Digital wireframes showing exact button placement, menus, forms, and interactive states.
+
+---
+
+# Identifying This Wireframe Type
+
+Based on the current content and visual style of our wireframes in this repository:  
+- They focus on **structure, layout, and placement** without finalized visuals or interactive details.  
+- **Conclusion:** This is a **low-fidelity wireframe** — ideal for early-stage planning and rapid iteration.
